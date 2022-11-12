@@ -1,1 +1,2 @@
-This is an example of a new file!
+I am changing line 1
+and adding line 2

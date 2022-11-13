@@ -1,2 +1,3 @@
 I am changing line 1
 and adding line 2
+This is another message different from the original
